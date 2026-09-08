@@ -235,3 +235,6 @@ This repository serves as the official landing page for Octave. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Octave today!**
+
+---
+**Last updated:** 2026-09-08 14:49:08 UTC
