@@ -237,4 +237,4 @@ This repository serves as the official landing page for Octave. The software is 
 **Get the most recent version of Octave today!**
 
 ---
-**Last updated:** 2026-09-21 21:21:38 UTC
+**Last updated:** 2026-09-22 00:21:58 UTC
